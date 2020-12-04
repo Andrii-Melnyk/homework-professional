@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace Task1
 {
@@ -6,7 +7,24 @@ namespace Task1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Calendar calendar = new Calendar();
+
+            foreach (var item in calendar)
+            {
+                Console.WriteLine(item);
+            }
+            Console.WriteLine(new String('-', 30));
+
+            Console.WriteLine(calendar.GetMonthByNumber(1));
+            Console.WriteLine(new String('-', 30));
+
+            var montshByDaysCount = calendar.GetMontshByDaysCount(30);
+            foreach (var item in montshByDaysCount)
+            {
+                Console.WriteLine(item);
+            }          
+
+            Console.ReadKey();
         }
     }
 }
