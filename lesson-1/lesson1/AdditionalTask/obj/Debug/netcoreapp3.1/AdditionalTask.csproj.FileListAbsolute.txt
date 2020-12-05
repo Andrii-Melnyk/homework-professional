@@ -1,0 +1,13 @@
+D:\CiberBionic\Homework-professional\lesson-1\lesson1\AdditionalTask\bin\Debug\netcoreapp3.1\AdditionalTask.exe
+D:\CiberBionic\Homework-professional\lesson-1\lesson1\AdditionalTask\bin\Debug\netcoreapp3.1\AdditionalTask.deps.json
+D:\CiberBionic\Homework-professional\lesson-1\lesson1\AdditionalTask\bin\Debug\netcoreapp3.1\AdditionalTask.runtimeconfig.json
+D:\CiberBionic\Homework-professional\lesson-1\lesson1\AdditionalTask\bin\Debug\netcoreapp3.1\AdditionalTask.runtimeconfig.dev.json
+D:\CiberBionic\Homework-professional\lesson-1\lesson1\AdditionalTask\bin\Debug\netcoreapp3.1\AdditionalTask.dll
+D:\CiberBionic\Homework-professional\lesson-1\lesson1\AdditionalTask\bin\Debug\netcoreapp3.1\AdditionalTask.pdb
+D:\CiberBionic\Homework-professional\lesson-1\lesson1\AdditionalTask\obj\Debug\netcoreapp3.1\AdditionalTask.csprojAssemblyReference.cache
+D:\CiberBionic\Homework-professional\lesson-1\lesson1\AdditionalTask\obj\Debug\netcoreapp3.1\AdditionalTask.AssemblyInfoInputs.cache
+D:\CiberBionic\Homework-professional\lesson-1\lesson1\AdditionalTask\obj\Debug\netcoreapp3.1\AdditionalTask.AssemblyInfo.cs
+D:\CiberBionic\Homework-professional\lesson-1\lesson1\AdditionalTask\obj\Debug\netcoreapp3.1\AdditionalTask.csproj.CoreCompileInputs.cache
+D:\CiberBionic\Homework-professional\lesson-1\lesson1\AdditionalTask\obj\Debug\netcoreapp3.1\AdditionalTask.dll
+D:\CiberBionic\Homework-professional\lesson-1\lesson1\AdditionalTask\obj\Debug\netcoreapp3.1\AdditionalTask.pdb
+D:\CiberBionic\Homework-professional\lesson-1\lesson1\AdditionalTask\obj\Debug\netcoreapp3.1\AdditionalTask.genruntimeconfig.cache

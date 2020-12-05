@@ -14,6 +14,7 @@ namespace Task2
             citizens.Add(new Working("Алекс", "Иванов", "РО6805483"));
 
             citizens.Remove(new Pensioner("Петр", "Петров", "НО10045483"));
+
             foreach (Citizen item in citizens)
             {
                 Console.WriteLine($"{item.Name} {item.Surname} {item.PassportID}");
