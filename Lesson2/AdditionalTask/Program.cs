@@ -3,7 +3,7 @@ using System.Collections;
 
 namespace AdditionalTask
 {
-    class Comparer : IComparer
+    class KeyComparer : IComparer
     {
         public int Compare(object x, object y)
         {
@@ -28,7 +28,7 @@ namespace AdditionalTask
             }
 
             Console.WriteLine();
-            SortedList sortedList1 = new SortedList(new Comparer())
+            SortedList sortedList1 = new SortedList(new KeyComparer())
             {
                 { "FIRST", "Hello" },
                 { "SECOND", "World" },
