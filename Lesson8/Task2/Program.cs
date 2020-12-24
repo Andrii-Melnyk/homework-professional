@@ -47,7 +47,7 @@ namespace Task2
         {
             FileStream streamCar = new FileStream("Car.xml", FileMode.Open);
             XmlSerializer serializerCar = new XmlSerializer(typeof(Car));
-            var car = (Car)serializerCar.Deserialize(streamCar);
+            var car = serializerCar.Deserialize(streamCar) as Car;
             Console.WriteLine($"Марка машины: {car.model}");
             Console.WriteLine($"Год выпуска: {car.date.Year}");
 
@@ -55,7 +55,7 @@ namespace Task2
 
             FileStream streamTruck = new FileStream("Truck.xml", FileMode.Open);
             XmlSerializer serializerTruck = new XmlSerializer(typeof(Truck));
-            var truck = (Truck)serializerTruck.Deserialize(streamTruck);
+            var truck = serializerTruck.Deserialize(streamTruck) as Truck;
             Console.WriteLine($"Марка машины: {truck.model}");
             Console.WriteLine($"Год выпуска: {truck.date.Year}");
         }
