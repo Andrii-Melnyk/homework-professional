@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<Truck xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" CarModel="MAN TGS" MaxSpeed="240">
+  <date>2019-03-23T00:00:00</date>
+</Truck>
