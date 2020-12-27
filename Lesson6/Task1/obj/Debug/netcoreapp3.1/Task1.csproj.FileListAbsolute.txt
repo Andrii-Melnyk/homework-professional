@@ -1,0 +1,9 @@
+D:\CiberBionic\Homework-professional\Lesson6\Task1\obj\Debug\netcoreapp3.1\Task1.csprojAssemblyReference.cache
+D:\CiberBionic\Homework-professional\Lesson6\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+D:\CiberBionic\Homework-professional\Lesson6\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+D:\CiberBionic\Homework-professional\Lesson6\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.CoreCompileInputs.cache
+D:\CiberBionic\Homework-professional\Lesson6\Task1\bin\Debug\netcoreapp3.1\Task1.deps.json
+D:\CiberBionic\Homework-professional\Lesson6\Task1\bin\Debug\netcoreapp3.1\Task1.dll
+D:\CiberBionic\Homework-professional\Lesson6\Task1\bin\Debug\netcoreapp3.1\Task1.pdb
+D:\CiberBionic\Homework-professional\Lesson6\Task1\obj\Debug\netcoreapp3.1\Task1.dll
+D:\CiberBionic\Homework-professional\Lesson6\Task1\obj\Debug\netcoreapp3.1\Task1.pdb
